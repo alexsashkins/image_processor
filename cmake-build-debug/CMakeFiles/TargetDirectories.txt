@@ -1,0 +1,3 @@
+/Users/aleksandrgubarev/Desktop/image_processor/cmake-build-debug/CMakeFiles/image_processor.dir
+/Users/aleksandrgubarev/Desktop/image_processor/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/aleksandrgubarev/Desktop/image_processor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
